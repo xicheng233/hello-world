@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-a place to store ideas, resources, or even share and discuss things with you.
+Hi folks, I am a guy interested in reading and thinking. Happy to share and learn from you all.
